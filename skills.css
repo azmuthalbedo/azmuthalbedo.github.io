@@ -118,8 +118,8 @@ body{
     opacity: 0.8;
 }
 .skills{
-  background-color: black;
-  color: white;
+  background-color: lightblue;
+  color: black;
   list-style: none; 
   border-radius:  12px;
   font-family: Times New Roman, Times, serif;
@@ -133,8 +133,8 @@ body{
 }
 
 .Tskills{
-  background-color: black;
-  color: white;
+  background-color: lightblue;
+  color: black;
   list-style: none; 
   border-radius:  12px;
   font-family: Times New Roman, Times, serif;
@@ -149,8 +149,8 @@ body{
 }
 
 .pl{
-  background-color: black;
-  color: white;
+  background-color: lightblue;
+  color: black;
   list-style: none; 
   border-radius:  12px;
   font-family: Times New Roman, Times, serif;
@@ -164,8 +164,8 @@ body{
 }
 
 .hl{
-  background-color: black;
-  color: white;
+  background-color: lightblue;
+  color: black;
   list-style: none; 
   border-radius:  12px;
   font-family: Times New Roman, Times, serif;
@@ -179,8 +179,8 @@ body{
 }
 
 .ex{
-  background-color: black;
-  color: white;
+  background-color: lightblue;
+  color: black;
   list-style: none; 
   border-radius:  12px;
   font-family: Times New Roman, Times, serif;
