@@ -79,7 +79,6 @@ body{
   display: block;
 }
 
-@media screen and (max-width: 600px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
   }
@@ -87,8 +86,7 @@ body{
     float: right;
     display: block;
   }
-}
-@media screen and (max-width: 600px) {
+
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
     position: absolute;
