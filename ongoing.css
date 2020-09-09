@@ -136,7 +136,7 @@ h1{
 }
 .img1{
     background-color: lightblue;
-    backround-radius: 50px;
+    border-radius: 50px;
     transition: transform .2s;
     max-width: 100%;
     height: auto;
@@ -150,7 +150,7 @@ h1{
 }
 .img2{
     background-color: lightblue;
-    backround-radius: 50px;
+    border-radius: 50px;
     transition: transform .2s;
     max-width: 100%;
     height: auto;
@@ -163,7 +163,7 @@ h1{
 }
 
 .img3{
-    background-color: lightblue;
+    border-color: lightblue;
     backround-radius: 50px;
     transition: transform .2s;
     max-width: 100%;
@@ -178,7 +178,7 @@ h1{
 
 .img4{
     background-color: lightblue;
-    backround-radius: 50px;
+    border-radius: 50px;
     transition: transform .2s;
     max-width: 100%;
     height: auto;
