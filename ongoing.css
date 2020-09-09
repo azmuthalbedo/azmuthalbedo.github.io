@@ -117,77 +117,26 @@ h1{
      justify-content: center;
      flex-direction: row;
      flex-wrap: wrap;
-     transition:0.1s;
+     transition:.2s;
 }
 .container:hover {
     opacity: 1;
 }
-.item {
-    margin: 20px;
-    height:200px;
-    width: 200px;
+img{
+    background-color: lightblue;
+    border-radius: 12px;
     transition: transform .2s;
+    max-width: 100%;
+    height: auto;
+
 }
-.item:hover { 
+
+img:hover{
     -ms-transform: scale(1.2);
     -webkit- transform: scale(1.2);
      transform: scale(1.2);
 }
-.img1{
-    background-color: lightblue;
-    border-radius: 12px;
-    transition: transform .2s;
-    max-width: 100%;
-    height: auto;
-
-}
-
-.img1:hover{
-    -ms-transform: scale(1.2);
-    -webkit- transform: scale(1.2);
-     transform: scale(1.2); 
-}
-.img2{
-    background-color: lightblue;
-    border-radius: 12px;
-    transition: transform .2s;
-    max-width: 100%;
-    height: auto;
-}
-
-.img2:hover{
-    -ms-transform: scale(1.2);
-    -webkit- transform: scale(1.2);
-     transform: scale(1.2); 
-}
-
-.img3{
-    background-color: lightblue;
-    border-radius: 12px;
-    transition: transform .2s;
-    max-width: 100%;
-    height: auto;
-}
-
-.img3:hover{
-    -ms-transform: scale(1.2);
-    -webkit- transform: scale(1.2);
-     transform: scale(1.2); 
-}
-
-.img4{
-    background-color: lightblue;
-    border-radius: 12px;
-    transition: transform .2s;
-    max-width: 100%;
-    height: auto;
-}
-
-.img4:hover{
-    -ms-transform: scale(1.2);
-    -webkit- transform: scale(1.2);
-     transform: scale(1.2); 
-}
+ 
 
 button {
   border: none;
@@ -227,5 +176,5 @@ button:hover, a:hover {
 footer{
     text-align: center;
     font-weight: bold;
-    font-family: condense;
+    font-family: Times New Roman;
 }
