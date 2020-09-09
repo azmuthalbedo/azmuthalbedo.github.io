@@ -115,8 +115,12 @@ body{
 img { 
     border-radius: 50%;
     opacity: 1;
-    height: 100px;
-    width: 25%;
+    width: 100%;
+    height:auto;
+}
+.title {
+       Opacity: 0.8;
+       font-weight: 900;
 }
 
 button {
