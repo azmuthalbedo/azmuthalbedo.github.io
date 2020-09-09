@@ -163,7 +163,7 @@ h1{
 }
 
 .img3{
-    border-color: lightblue;
+    background-color: lightblue;
     border-radius: 12px;
     transition: transform .2s;
     max-width: 100%;
