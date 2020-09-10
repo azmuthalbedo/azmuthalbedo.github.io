@@ -11,7 +11,7 @@ body{
 }
 
 .topnav {
-  background-color: none;
+  background-color: grey;
   overflow: hidden;
 }
 
@@ -27,7 +27,7 @@ body{
 }
 
 .active {
-  background-color: grey;
+  background-color: blue;
   color: white;
 }
 
