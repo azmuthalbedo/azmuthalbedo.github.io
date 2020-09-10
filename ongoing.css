@@ -138,37 +138,27 @@ img:hover{
 }
  
 
-button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-  font-size: 18px;
-}
-
 a {
   text-decoration: none;
   font-size: 22px;
   color: black;
 }
 
-.button {
+.button{
   background-color: lightblue;
   border: none;
   color: black;
   padding: 20px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
-  width: 50%
+  width: 50%;
+  margin: auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
 }
+
 .button.btn {
     border-radius: 50px;}
 button:hover, a:hover {
