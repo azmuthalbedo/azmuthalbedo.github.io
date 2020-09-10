@@ -1,6 +1,5 @@
 html, body {
   height: 100%;
-  width: 100%;
   margin: 0;
 }
 body{
@@ -11,16 +10,16 @@ body{
 }
 
 .topnav {
-  background-color: black;
+  background-color: #888888;
   overflow: hidden;
-  border-radius: 50px;
+  border-radius: 12px;
 
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: lightblue;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -29,7 +28,7 @@ body{
 }
 
 .active {
-  background-color: grey;
+  background-color: #080808;
   color: white;
 }
 
