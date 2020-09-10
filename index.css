@@ -117,9 +117,9 @@ body{
   }
 }
 .card {
-   align: center;
+  align: center;
   max-width: 100%;
-  height: 350px;
+  height: 100%;
   margin: auto;
   text-align: center;
   opacity: 0.9;
@@ -129,7 +129,7 @@ img {
     border-radius: 50%;
     opacity: 1;
     max-width: 100%;
-    height: 200px;
+    height: auto;
     margin: auto;
 }
 .title {
