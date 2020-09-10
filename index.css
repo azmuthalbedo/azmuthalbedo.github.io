@@ -27,7 +27,7 @@ body{
 }
 
 .active {
-  background-color: white;
+  background-color: grey;
   color: white;
 }
 
@@ -83,7 +83,7 @@ body{
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
+@media screen and (max-width: 600px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
   }
@@ -91,7 +91,8 @@ body{
     float: right;
     display: block;
   }
-
+}
+@media screen and (max-width: 600px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
     position: absolute;
@@ -110,6 +111,7 @@ body{
     width: 100%;
     text-align: left;
   }
+}
 .card {
   display: flex;
   justify-content: center;
@@ -187,4 +189,3 @@ button:hover, a:hover {
   75%  {background-color:green; left:0px; top:200px;}
   100% {background-color: lightblue; left:0px; top:0px;}
 }
-
