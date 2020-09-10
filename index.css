@@ -11,8 +11,10 @@ body{
 }
 
 .topnav {
-  background-color: grey;
+  background-color: black;
   overflow: hidden;
+  border-radius: 12px;
+
 }
 
 .topnav a {
@@ -27,7 +29,7 @@ body{
 }
 
 .active {
-  background-color: blue;
+  background-color: grey;
   color: white;
 }
 
