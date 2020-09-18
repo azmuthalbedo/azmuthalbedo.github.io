@@ -120,7 +120,6 @@ body{
   color: black;
   list-style: none; 
   border-radius:  12px;
-  Padding: 2px;
   font-family: Times New Roman, Times, serif;
   transition: transform .2s
 }
@@ -136,7 +135,6 @@ body{
   color: black;
   list-style: none; 
   border-radius:  12px;
-  padding: 2px;
   font-family: Times New Roman, Times, serif;
   transition: transform .2s
 }
@@ -153,7 +151,6 @@ body{
   color: black;
   list-style: none; 
   border-radius:  12px;
-  padding: 2px;
   font-family: Times New Roman, Times, serif;
   transition: transform .2s
 }
@@ -184,7 +181,6 @@ body{
   color: black;
   list-style: none; 
   border-radius:  12px;
-  padding: 2px;
   font-family: Times New Roman, Times, serif;
   transition: transform .2s
 }
